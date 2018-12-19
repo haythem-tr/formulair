@@ -1,0 +1,27 @@
+.formul{
+display: flex;
+justify-content: center;
+}
+.Name{
+    font-family: cursive;
+    font-size: xx-large; 
+   color: darkgrey;
+}
+.form-control{
+    border-radius: 14px;
+    width: 148%;
+    height: 5%;
+    background-image:url(hhh.jpg);
+   color:  darkgrey;
+font-size:    163%;
+}
+.btn-btn-primary-btn-lg{
+    width: 207%;
+    height: 38px;
+    margin-top: 10%;
+    margin-left: -28%;
+    border-radius: 14px;
+    background-image:url(hhh.jpg);
+    font-size: 178%;
+    color:darkgrey; 
+}
